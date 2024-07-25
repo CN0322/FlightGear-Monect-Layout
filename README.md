@@ -1,4 +1,4 @@
-![Layout-Preview](https://i.imgur.com/8gO699O.jpeg)
+![Layout-Preview](https://i.imgur.com/KGzSz03.jpeg)
 
 Custom Flightgear Layout for Monect:
 
