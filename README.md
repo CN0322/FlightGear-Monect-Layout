@@ -11,3 +11,5 @@ Installing the layout is pretty easy, simply download the layout and the app if 
 TODO:
 1. Make it neat
 2. Add more buttons
+
+Still a W.I.P, feel free to edit it yourself!
